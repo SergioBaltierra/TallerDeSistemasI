@@ -1,0 +1,50 @@
+body{
+  background-color: pink;
+}
+h1 {
+  color: red;
+  border: solid;
+}
+#p1 { 
+  color: blue; 
+  background-color: yellow;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-left: 1%;
+  margin-bottom: 1%;
+  padding-right: 1%;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-bottom: 1%;
+  width: 80%;
+  height: 30%;
+  border: dashed;
+  border-color: black;
+}
+#p2 {
+  color: green;
+  margin-right: 1.5%;
+  margin-top: 1.5%;
+  margin-left: 1.5%;
+  margin-bottom: 1.5%;
+  width: 80%;
+  height: 30%;
+  border: dashed;
+  border-color: black;
+}
+.tipoFuente{
+  font-family: Verdana;
+  background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+

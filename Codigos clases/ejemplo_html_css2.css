@@ -1,0 +1,15 @@
+.enlinea{
+  display: inline;
+  border: solid;
+  width: 30%;
+  height: 30%;
+  position: relative;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.enbloque{
+  display: block;
+  width: 30%;
+  height: 30%;
+  position: static
+}
